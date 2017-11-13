@@ -14,7 +14,7 @@
  *    limitations under the License.
  */
 
-package com.oozeetech.manish;
+package com.hirani.alpesh;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
